@@ -14,41 +14,41 @@ unraid界面美化代码
 #dark
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/dark/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/dark/main.css" />
 ```
 
 #Aquamarine
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Aquamarine/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/Aquamarine/main.css" />
 ```
 
 #Hotline
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Hotline/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/Hotline/main.css" />
 ```
 
 #Hotpink
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Hotpink/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/Hotpink/main.css" />
 ```
 
 #Dracula
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Dracula/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/Dracula/main.css" />
 ```
 
 #Space-gray
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Space-gray/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/Space-gray/main.css" />
 ```
 
 #cartoon   背景图请修改cartoon.css中background-image中得图片路径或者改成本地
 ```
 </style> 
-<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/cartoon/main.css" />
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/yz2sh/unraid-Theme/main/cartoon/main.css" />
 ```
